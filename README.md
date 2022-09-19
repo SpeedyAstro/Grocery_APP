@@ -1,4 +1,4 @@
-GoStore: [Internship Program Project](https://github.com/smartinternz02/SPSGP-94220-Virtual-Internship---Android-Application-Development-Using-Kotlin)
+Grocery: [Internship Program Project](https://github.com/smartinternz02/SPSGP-94220-Virtual-Internship---Android-Application-Development-Using-Kotlin)
 ==================================
 ![.](https://media.giphy.com/media/Mr944mRsG5C3AMqwEL/giphy.gif)
 
